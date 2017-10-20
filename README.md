@@ -1,1 +1,1 @@
- tower-of-hanoi
+Implements Breadth and Depth-First search in Java to solve the Tower of Hanoi puzzle. An implicit problem- space graph of vertices and edges was used to store the various states of possible situations. The algorithm searches the graph from the starting vertex to the final vertex by hashing each vertex to an edge containing two vertices connected to each other.
